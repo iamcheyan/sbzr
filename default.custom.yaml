@@ -1,0 +1,25 @@
+patch:
+  schema_list:
+    - schema: sbzr
+    # - schema: jaroomaji  # 暂时禁用，因为词典太大导致内存不足
+  switcher:
+    abbreviate_options: true
+    caption: "〔方案选单〕"
+    fold_options: true
+    option_list_separator: '／'
+    hotkeys:
+      - "Control+grave"
+      - "Control+Shift+grave"
+      - F4
+  ascii_composer:
+    good_old_caps_lock: true
+    switch_key:
+      Shift_L: inline_ascii
+      Shift_R: inline_ascii
+      Control_L: commit_code
+      Control_R: noop
+      Caps_Lock: clear
+      Eisu_toggle: clear
+
+
+
