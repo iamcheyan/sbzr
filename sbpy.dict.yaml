@@ -44,7 +44,6 @@ sort: by_weight
 # 这	zhei	17648808
 # 那	nei	9929703
 
-
 ### 扩展，不在《通用规范汉字表》的字:
 嬢	niang53	1
 薙	ti12	1
@@ -84,6 +83,7 @@ sort: by_weight
 # 呣	m	没启用
 # 哼	hng	没启用
 # 噷	hm	在 custom_phrase.txt 里置顶了
+
 嗯	eng25	9179528
 欸	ei54	534
 哟	yo25	59051
